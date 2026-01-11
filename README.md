@@ -58,8 +58,11 @@ The machine continues running until the user turns it off.
 **Project File Structure**
 
 ├── main.py              # Program entry point and main loop
+
 ├── menu.py              # Menu and MenuItem classes
+
 ├── coffee_maker.py      # Resource tracking and coffee preparation
+
 ├── money_machine.py     # Coin processing, payments, and profit tracking
 
 **Example Output**
